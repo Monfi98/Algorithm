@@ -1,10 +1,3 @@
-//
-//  main.swift
-//  baekjoon
-//
-//  Created by 신승재 on 2023/05/10.
-//
-
 import Foundation
 
 var n = Int(readLine()!)!
